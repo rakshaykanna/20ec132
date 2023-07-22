@@ -1,0 +1,68 @@
+/* NumberCruncher.css */
+
+/* Container styles */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(140, 140, 207); /* Change the background color to blue */
+  border-radius: 5px;
+}
+
+/* URL input styles */
+.url-input {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.url-button {
+  background-color: #92aecb;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.url-button:hover {
+  background-color: #7999bc;
+}
+
+/* Action buttons styles */
+.action-buttons {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.fetch-button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.fetch-button:hover {
+  background-color: #218838;
+}
+
+/* Result styles */
+.result {
+  text-align: center;
+}
+
+.result h2 {
+  margin-bottom: 10px;
+}
+
+.result ul {
+  list-style: none;
+  padding: 0;
+}
+
+.result li {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
